@@ -6,7 +6,7 @@ My background combines entrepreneurship, B2B sales and industrial work. I enjoy 
 
 ## Practical experience
 
-At Metso, my work includes developing an integration tool between engineering software and a database using .NET 8 and GitHub Copilot. One feature I implemented detects changes in the other application and requires the user to review them before saving, helping prevent accidental overwrites and loss of information.
+At Metso, my work has included developing an integration tool between engineering software and a database using .NET 8 and GitHub Copilot. One feature I implemented detects changes in the other application and requires the user to review them before saving, helping prevent accidental overwrites and loss of information.
 
 This work has given me experience modifying an existing application, debugging, iterating and solving problems in an industrial setting.
 
@@ -32,4 +32,3 @@ I'm interested in software development opportunities where I can combine technic
 ## Find me elsewhere
 
 - [More projects on my university GitHub account — @panulut](https://github.com/panulut)
-- [Website — panumusakka.com](https://panumusakka.com)
