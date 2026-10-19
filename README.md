@@ -14,6 +14,8 @@ This work has given me experience modifying an existing application, debugging, 
 
 ### 🏎️ [LPR Lap Challenge](https://github.com/panulut/lprmotorsport)
 
+**[▶ Play the game](https://panulut.github.io/lprmotorsport/)** · [Source code](https://github.com/panulut/lprmotorsport)
+
 A browser racing game inspired by Formula Student. My development work includes driving gameplay, a track editor, lap timing and leaderboards, alongside performance improvements and testing.
 
 ### 🔧 [Formula Student CAN Simulator](https://github.com/panulut/FSLUT-ESP32-CAN-Bus-Mock)
